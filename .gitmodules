@@ -1,0 +1,6 @@
+[submodule "openthread"]
+	path = openthread
+	url = https://github.com/kyberpunk/openthread
+[submodule "nrf-drivers"]
+	path = nrf-drivers
+	url = https://github.com/kyberpunk/nrf-drivers.git
