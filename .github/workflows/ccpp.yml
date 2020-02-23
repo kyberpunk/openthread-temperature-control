@@ -21,6 +21,4 @@ jobs:
         sudo apt-get update || die
         sudo apt-get -y install gcc-arm-embedded || die
     - name: make
-      run: 
-        cd build
-        make all
+      run: cd build && make all
